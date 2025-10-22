@@ -1,6 +1,6 @@
 import os
 
-DRIVE_PATH = '/global/scratch/users/xinzhou/GraphModel_new/data/'
+DRIVE_PATH = 
 DRIVE_PYTHON_PATH = DRIVE_PATH.replace('\\', '')
 
 
