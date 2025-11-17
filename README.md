@@ -19,5 +19,3 @@ Quick checklist before running
 - [ ] DRIVE_PATH points to the correct dataset folder
 - [ ] Required files exist in that folder (see `data_real_final/`)
 - [ ] Python dependencies are installed (see project requirements or `requirements.txt` if present)
-
-If you'd like, I can search the repository for where `DRIVE_PATH` is defined and update the file to use an environment variable or a single central configuration.
